@@ -1,0 +1,285 @@
+2020-12-05 18:51:13,332 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-05 18:54:04,807 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\pom.xml
+2020-12-05 18:54:09,324 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sg.automation:Sg_Maven_Project:0.0.1-SNAPSHOT @ E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\pom.xml.
+2020-12-05 18:54:10,468 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Sg_Maven_Project/src/main/java
+2020-12-05 18:54:10,479 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Sg_Maven_Project/src/test/java
+2020-12-05 18:54:12,566 [Worker-6: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2020-12-05 18:54:13,635 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 18:54:13,636 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 18:54:13,641 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 18:54:13,641 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:02:44,699 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:02:44,699 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:02:44,703 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:02:44,703 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:03:11,352 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:03:11,352 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:03:11,352 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:03:11,352 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:03:40,979 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:03:40,979 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:03:40,987 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:03:40,987 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:04:05,801 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:04:05,802 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:04:05,804 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:04:05,805 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:09:46,923 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:09:46,923 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:09:46,927 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:09:46,928 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:10:02,289 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:10:02,289 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:10:02,292 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:10:02,293 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:10:20,459 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:10:20,460 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:10:20,465 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:10:20,466 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:10:38,611 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:10:38,613 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:10:38,619 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:10:38,619 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:12:54,848 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:12:54,849 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:12:54,853 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:12:54,853 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:13:38,072 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:13:38,072 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:13:38,073 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:13:38,073 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:14:35,752 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:14:35,752 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:14:35,755 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:14:35,755 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:14:48,066 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:14:48,066 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:14:48,069 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:14:48,069 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:18:41,566 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-12-05 19:18:42,558 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sg.automation:Sg_Maven_Project:0.0.1-SNAPSHOT @ E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\pom.xml.
+2020-12-05 19:18:43,043 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Sg_Maven_Project/src/main/java
+2020-12-05 19:18:43,045 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Sg_Maven_Project/src/test/java
+2020-12-05 19:18:43,238 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-12-05 19:18:43,469 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:18:43,470 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:18:43,474 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:18:43,474 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:21:06,396 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:21:06,396 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:21:06,399 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:21:06,400 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:21:56,607 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:21:56,608 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:21:56,622 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:21:56,622 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:22:40,985 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:22:40,986 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:22:40,988 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:22:40,989 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:23:04,111 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:23:04,111 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:23:04,114 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:23:04,114 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:24:35,457 [Worker-24: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sg.automation:SG_Mvn_Project:1.0-SNAPSHOT @ E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\pom.xml.
+2020-12-05 19:24:39,959 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:24:39,961 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:24:39,965 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:24:39,966 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:24:43,528 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:24:43,528 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:24:43,531 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:24:43,531 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:29:20,738 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:29:20,739 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:29:20,741 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:29:20,741 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:29:21,811 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:29:21,811 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:29:21,817 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:29:21,817 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:29:48,385 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:29:48,386 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:29:48,388 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:29:48,388 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:30:02,342 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:30:02,343 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:30:02,345 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:30:02,345 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:30:16,873 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:30:16,873 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:30:16,875 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:30:16,875 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:30:38,871 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:30:38,871 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:30:38,879 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:30:38,879 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:31:07,103 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:31:07,104 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:31:07,106 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:31:07,106 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:31:22,000 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:31:22,000 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:31:22,002 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:31:22,002 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:31:37,104 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:31:37,104 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:31:37,107 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:31:37,107 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:31:52,117 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:31:52,117 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:31:52,120 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:31:52,120 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:32:13,492 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:32:13,492 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:32:13,508 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:32:13,508 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:32:28,635 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:32:28,636 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:32:28,637 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:32:28,638 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:32:44,903 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:32:44,903 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:32:44,905 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:32:44,905 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:33:12,301 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:33:12,301 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:33:12,305 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:33:12,305 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:33:30,467 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:33:30,467 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:33:30,468 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:33:30,469 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:33:57,707 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:33:57,707 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:33:57,709 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:33:57,709 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:34:16,389 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:34:16,389 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:34:16,392 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:34:16,392 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:34:44,776 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:34:44,776 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:34:44,778 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:34:44,778 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:35:26,322 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:35:26,323 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:35:26,326 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:35:26,326 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:35:43,672 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:35:43,673 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:35:43,675 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:35:43,676 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:36:00,961 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:36:00,961 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:36:00,963 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:36:00,963 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:36:16,009 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:36:16,009 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:36:16,009 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:36:16,009 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:38:15,147 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-12-05 19:38:18,826 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sg.automation:SG_Mvn_Project:1.0-SNAPSHOT @ E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\pom.xml.
+2020-12-05 19:38:21,127 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Sg_Maven_Project/src/main/java
+2020-12-05 19:38:21,127 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Sg_Maven_Project/src/test/java
+2020-12-05 19:38:21,824 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2020-12-05 19:38:23,004 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:38:23,004 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:38:23,009 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:38:23,009 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:40:10,020 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:40:10,020 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:40:10,022 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:40:10,022 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:40:54,243 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:40:54,243 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:40:54,243 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:40:54,243 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:41:12,182 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:41:12,183 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:41:12,185 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:41:12,185 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:41:22,526 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:41:22,526 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:41:22,530 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:41:22,530 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:42:12,513 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:42:12,514 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:42:12,517 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:42:12,517 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:43:56,066 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:43:56,067 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:43:56,070 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:43:56,071 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:44:07,570 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:44:07,570 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:44:07,573 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:44:07,573 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:44:49,549 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:44:49,550 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:44:49,553 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:44:49,554 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:45:35,380 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:45:35,380 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:45:35,381 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:45:35,382 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:46:28,551 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:46:28,551 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:46:28,551 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:46:28,551 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:52:28,935 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-05 19:52:49,019 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sg.automation:SG_Mvn_Project:1.0-SNAPSHOT @ E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\pom.xml.
+2020-12-05 19:52:49,019 [Worker-1: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sg.automation:SG_Mvn_Project:1.0-SNAPSHOT @ E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\pom.xml.
+2020-12-05 19:52:52,129 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:52:52,129 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:52:52,133 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:52:52,134 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:52:53,822 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sg.automation:SG_Mvn_Project:1.0-SNAPSHOT @ E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\pom.xml.
+2020-12-05 19:52:55,058 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:52:55,059 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:52:55,062 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:52:55,062 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:55:28,001 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:55:28,001 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:55:28,004 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:55:28,005 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:55:34,227 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:55:34,228 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:55:34,232 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:55:34,232 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:56:12,978 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:56:12,978 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:56:12,981 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:56:12,981 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 19:57:39,586 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:57:39,596 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 19:57:39,599 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 19:57:39,601 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 20:00:34,384 [Worker-2: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-05 20:00:46,627 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sg.automation:SG_Mvn_Project:1.0-SNAPSHOT @ E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\pom.xml.
+2020-12-05 20:00:47,575 [Worker-5: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sg.automation:SG_Mvn_Project:1.0-SNAPSHOT @ E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\pom.xml.
+2020-12-05 20:00:50,750 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 20:00:50,750 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 20:00:50,755 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 20:00:50,755 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 20:00:52,906 [Worker-13: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sg.automation:SG_Mvn_Project:1.0-SNAPSHOT @ E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\pom.xml.
+2020-12-05 20:00:54,979 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 20:00:54,979 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 20:00:54,983 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 20:00:54,983 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 20:03:32,833 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 20:03:32,834 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 20:03:32,837 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 20:03:32,837 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 20:11:38,415 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 20:11:38,416 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 20:11:38,418 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 20:11:38,418 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 20:12:02,619 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 20:12:02,619 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 20:12:02,635 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 20:12:02,635 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
+2020-12-05 20:12:03,668 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 20:12:03,668 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\main\resources
+2020-12-05 20:12:03,668 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-05 20:12:03,668 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SGTESTINGINSTITUTE\Mvn_Project_Workspace\Sg_Maven_Project\src\test\resources
